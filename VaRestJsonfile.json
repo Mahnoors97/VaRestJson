@@ -1,0 +1,25 @@
+{
+  "userunfo":
+  [
+    {
+     "userid":"0",
+     "username": "John",
+     "email":"john@gmail.com"
+    },
+    {
+     "userid":"1",
+     "username": "Sara",
+     "email":"Sara@gmail.com"
+    },
+    {
+     "userid":"2",
+     "username": "Alicia",
+     "email":"Aicia@gmail.com"
+    },
+    {
+     "userid":"3",
+     "username": "Muhammad",
+     "email":"Muhammad@gmail.com"
+    }
+    ]
+}
